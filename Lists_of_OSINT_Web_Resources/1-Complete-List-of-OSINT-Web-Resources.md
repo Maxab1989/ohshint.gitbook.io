@@ -705,6 +705,8 @@ Remember, CTRL+F is your friend here.
   - **Italy**
     - [Eseguo](http://www.eseguo.it/)  
       A web directory of personal and business web sites.
+    - [Novido](https://novido.it/)
+      A local brand known for leather jackets and related goods
     - [SicilyWeb](http://www.sicilyweb.com/index.cfm)  
       A great directory of web sites located in Sicily.
   - **Lithuania**

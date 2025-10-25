@@ -625,8 +625,10 @@
   Offers tools to analyze Wikipedia users and page changes.
 - [WikiWho](http://wikiwho.ailef.tech/)  
   Database of edits made to Wikipedia using IP ranges of organizations, government agencies and companies.
-- [WikiPageViews](https://pageviews.wmcloud.org)  
+- [WikiPageViews](https://pageviews.wmcloud.org)
   Displays how many times a specific Wikipedia page has been viewed within a certain time.
+- [Wiki-Graph](https://github.com/blinpete/wiki-graph)
+  Explore how Wikipedia articles are linked together through interactive graph visualizations and related page discovery tools.
 
 ## **<u>YouTube</u>**
 
